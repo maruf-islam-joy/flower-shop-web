@@ -1,0 +1,62 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lato', sans-serif;
+}
+
+.banner {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(229, 84, 115, 0.177); 
+    height: 100vh;
+}
+
+.banner-txt {
+    padding-left: 110px;
+    padding-top: 150px;
+    padding-bottom: 80px;
+}
+
+.ban-tit {
+    color: #272727;
+    font-size: 65px;
+    font-weight: 750;
+    margin-bottom: 30px;
+    width: 620px;
+}
+
+.ban-desc {
+    color: rgba(39, 39, 39, 0.428);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 380;
+    margin-bottom: 25px;
+    width: 600px;
+    line-height: 30px;
+
+}
+
+.btn-prim {
+    padding: 15px 28px;
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 550;
+    background-color: #E55473;
+    border: none;
+    border-radius: 5px;
+
+}
+
+.btn-prim:hover{
+    color: #E55473;
+    background-color: #FFF;
+}
+
+.ban-img{
+    width: 510px;
+    height:657px;
+    margin-top: 60px;
+    margin-right: 25px;
+}
+
