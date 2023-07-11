@@ -17,6 +17,7 @@
     font-weight: 380;
     width: 600px;
     margin: auto;
+    margin-bottom: 68px;
 }
 
 .feat:hover {
@@ -49,7 +50,15 @@
 
 }
 
-.inst-img{
+.img-desc {
+    margin-top: 25px;
+    color: #272727;
+    font-size: 17px;
+    font-weight: 700;
+
+}
+
+.inst-img {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -58,7 +67,7 @@
     padding-right: 160px;
 }
 
-.img-inst{
+.img-inst {
     width: 290px;
     height: 338px;
 }
