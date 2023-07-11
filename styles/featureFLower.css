@@ -1,0 +1,64 @@
+.feat-flow-txt {
+    margin-top: 150px;
+    text-align: center;
+}
+
+.feat-flow-tit {
+    color: #272727;
+    font-size: 30px;
+    font-weight: 799;
+    margin-bottom: 25px;
+}
+
+.feat-flow-desc {
+    color: rgba(39, 39, 39, 0.428);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 380;
+    width: 600px;
+    margin: auto;
+}
+
+.feat:hover {
+    color: #ff3d67;
+}
+
+
+.feat-flow-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 18px;
+    padding-left: 147px;
+    padding-right: 147px;
+
+
+}
+
+.img-feat {
+
+    width: 364px;
+    height: 438px;
+
+
+}
+
+.imgF {
+    text-align: center;
+
+
+}
+
+.inst-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding-left: 160px;
+    padding-right: 160px;
+}
+
+.img-inst{
+    width: 290px;
+    height: 338px;
+}
