@@ -1,0 +1,35 @@
+.sale {
+    background-color: rgba(229, 84, 115, 0.177);
+    margin-top: 137px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    padding-top: 85px;
+    padding-bottom: 45px;
+}
+
+.sale-txt {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.sale-tit {
+    color: #272727;
+    font-size: 29px;
+    font-weight: bold;
+    margin-bottom: 22px;
+}
+.off{
+    color: #E55473;
+}
+.sale-desc{
+    color: rgba(39, 39, 39, 0.428);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 380;
+    width: 500px;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
