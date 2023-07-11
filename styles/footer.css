@@ -1,0 +1,36 @@
+footer{
+    background-color: #111010;
+    color: wheat;
+    text-align: center;
+}
+.foot-sec{
+    padding: 128px 500px;
+}
+.foot-tit{
+    color: #272727;
+    font-size: 29px;
+    font-weight: bold;
+    margin-bottom: 22px;
+}
+.tit1{
+    color: #E55473;
+}
+.tit2{
+    color: white;
+}
+.foot-desc{
+    color: rgba(255, 255, 255, 0.665);
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 100;
+    width: 500px;
+    margin: auto;
+    margin-bottom: 25px;
+}
+.copy{
+    font-size: 10px;
+    color: gray;
+}
+.devname{
+    color: #e55473ab;
+}
