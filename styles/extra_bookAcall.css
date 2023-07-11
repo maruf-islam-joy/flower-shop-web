@@ -1,0 +1,62 @@
+.call{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: 130px;
+    margin-bottom: 25px;
+}
+
+.call-center{
+    color: #E55473;
+    font-weight: bold;
+}
+.call-txt{
+    padding-right: 35px;
+    border-right: 2px solid #E55473;
+}
+.call-tit{
+    font-size: 85px;
+    width: 480px;
+    margin-bottom: 25px;
+    
+    
+}
+.ctit1{
+    color: #E55473;
+}
+.ctit2{
+    border: 1px solid #E55473;
+    border-radius: 8px;
+    padding: 9px;
+}
+.ctit2:hover{
+    color: white;
+    background-color: #E55473;
+}
+.call-desc{
+    font-size: 14px;
+    font-weight: 200;
+    color: rgba(39, 39, 39, 0.428);
+    margin-top: 30px;
+}
+#phone-inp, #time-inp{
+    color: white;
+    font-weight:bold ;
+    width: 370px;
+    padding: 20px;
+    border: none;
+    border-radius: 8px;
+    background-color: #E55473;
+    
+    margin-bottom: 25px;
+}
+#phone-inp::placeholder{
+    color: rgba(255, 255, 255, 0.839);
+    font-weight:bold ;
+}
+
+.call-foot{
+    margin-top: 85px;
+    font-size: 15px;
+}
